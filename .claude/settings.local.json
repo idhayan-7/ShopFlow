@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dotnet add *)",
+      "Bash(echo \"EXIT:$?\")",
+      "Bash(npx ng *)"
+    ]
+  }
+}
